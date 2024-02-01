@@ -1,1 +1,2 @@
 # Algorithm-project
+This project includes two tasks related to the sorting and graph algorithms. The goal of the project is to modify and re-implement the Kruskal's algorithm in more efficient way if we assume that the edge weights in the input graphs are integer numbers in the range 0 to j, for some integer j <= n where n is the number of edges. In addition, you need to compare the time complexity of Kruskal's algorithm before and after the modification. Note: based on the above assumption, apply only one modification on the Kruskal's algorithm presented in the lecture.
